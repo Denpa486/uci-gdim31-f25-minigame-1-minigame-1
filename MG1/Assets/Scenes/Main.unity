@@ -56723,7 +56723,7 @@ MonoBehaviour:
   SprintSpeed: 6
   RotationSpeed: 3
   SpeedChangeRate: 10
-  JumpHeight: 1.2
+  JumpHeight: 1
   Gravity: -15
   JumpTimeout: 0.1
   FallTimeout: 0.15
